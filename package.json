@@ -1,5 +1,5 @@
 {
-  "name": "components",
+  "name": "ad03components",
   "version": "0.0.1",
   "peerDependencies": {
     "@angular/common": "^12.2.0",
@@ -7,5 +7,27 @@
   },
   "dependencies": {
     "tslib": "^2.3.0"
+  },
+  "description": "This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.0.",
+  "main": "karma.conf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamikaivi/ad03components.git"
+  },
+  "keywords": [
+    "ad03",
+    "components"
+  ],
+  "author": "vivianloza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamikaivi/ad03components/issues"
+  },
+  "homepage": "https://github.com/tamikaivi/ad03components#readme",
+  "devDependencies": {
+    "ng-packagr": "^19.1.2"
   }
 }
