@@ -9,6 +9,4 @@ declare module "ad03components" {
     constructor(props: ButtonProps);
     render(): string;
   }
-
-  // Si tienes más componentes o funciones, agrégales sus tipos aquí
 }
